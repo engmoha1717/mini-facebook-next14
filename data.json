@@ -1,0 +1,36 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "author" : "John Doe",
+        "avatar": "/placeholder.svg?height=40&width=40",
+        "timestamp": "2023-11-08T15:30:00Z",
+        "content": "Just finished a great coding session! #webdevelopment #javascript",
+        "image": "/placeholder.svg?height=400&width=600",
+        "likes": 42,
+        "comments": 7,
+        "shares": 3
+      },
+      {
+        "id": "2",
+        "author": "Jane Smith",
+        "avatar": "/placeholder.svg?height=40&width=40",
+        "timestamp": "2023-11-08T14:45:00Z",
+        "content": "Check out this amazing sunset I captured last night!",
+        "image": "/placeholder.svg?height=400&width=600",
+        "likes": 89,
+        "comments": 15,
+        "shares": 8
+      },
+      {
+        "id": "3",
+        "author":"Bob Johnson",
+        "avatar": "/placeholder.svg?height=40&width=40",
+        "timestamp": "2023-11-08T13:20:00Z",
+        "content": "Just published my first npm package. So excited to share it with the community!",
+        "likes": 31,
+        "comments": 5,
+        "shares": 2
+      }
+    ]
+  }
